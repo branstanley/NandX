@@ -1,0 +1,21 @@
+<6>[  381.502319] 
+<6>[  381.502319] =================================================
+<6>[  381.502319] nandx_find_simple: NANDX Find for MTD device: 0
+<6>[  381.502349] nandx_find_simple: MTD device
+<6>[  381.502349] 	size 419430400
+<6>[  381.502349] 	eraseblock size 131072
+<6>[  381.502349] 	page size 2048
+<6>[  381.502349] 	count of eraseblocks 3200
+<6>[  381.502349] 	pages per eraseblock 64
+<6>[  381.502349] 	OOB size 64
+<6>[  381.502349] 
+<6>[  392.445617] bq27520 0-0055: bq27520_handle_soc_worker() capacity=97 (97) flags=0x138 ctrl_status=0x28b soh_state=0x1, valid=1
+<6>[  464.056701] nandx_find_simple: scanned 3200 eraseblocks, 3 are bad
+<6>[  464.056701] =================================================
+<6>[  464.056701] nandx_find_simple: MTD block MAP for device: 0
+<6>[  464.056701] nandx_find_simple: block 37 is BAD
+<6>[  464.056732] nandx_find_simple: block 3001 is BAD
+<6>[  464.056732] nandx_find_simple: block 3111 is BAD
+<6>[  464.056762] 
+<6>[  464.056762] =================================================
+<6>[  464.056762] =================================================
